@@ -1,3 +1,4 @@
+// Author: khaled Alrashdi
 #include<iostream>
 #include<string>
 using namespace std;
